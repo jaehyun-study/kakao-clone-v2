@@ -1,2 +1,1 @@
-# kakao-clone-v2
- Kakao Clone v2
+https://jaehyun-study.github.io/kakao-clone-v2/
